@@ -1,6 +1,7 @@
-b0a995c8897a8928f91e857bbee07de7 *DESCRIPTION
+49418738b2b0d1aa18378196b3e2e861 *DESCRIPTION
 f7e4483c9c1dc4519c4972c2fc892a2b *NAMESPACE
-0f398fb58bfc666753d7111169d21841 *NEWS
+08dba8df362b3f65f721c0485cbcb30c *NEWS
+f70202df2361e2bda3d2fba0b441fb1c *R/data.R
 8ed61449171cc2cfe0e95221117e6516 *R/nealAlgorithm3.R
 8ccd18e03aa1735c6a86f27f518619e9 *R/psmMergeSplit.R
 0f35b2351c2e7bff6823aa8f6bb3831e *R/psmMergeSplit_base.R
@@ -10,6 +11,7 @@ f7e4483c9c1dc4519c4972c2fc892a2b *NAMESPACE
 badd6d599db8ab5af51a7a1027494d3c *R/simpleMergeSplit.R
 b5cd28573829a374ad1059281b29eddb *R/summary.R
 2dafa7f6368c43dd6b6984450e3e7b41 *R/utility.R
+9d7b94c4cf3e415a1c98fe927ea389fa *data/data.rda
 f2fc322ed6cd8fe6a638a0e467ecaa0e *man/asCanonical.Rd
 1b049a8ee2dbf2d47196e3b00c027df9 *man/asClusterLabels.Rd
 9ae097b9fa91c0c72fca6c815671fe41 *man/asSetPartition.Rd
@@ -23,6 +25,12 @@ b64952210db1b119b5a59c37b1f538ff *man/getThetas.Rd
 f40d469a30927031d7c10b3e53c0495f *man/joinExistingCluster.Rd
 7c6d0b742eaa973d3999c4db24fd170d *man/nClusters.Rd
 e16cb13e39a1f09fa21104d2de86c909 *man/nealAlgorithm3.Rd
+f22004ccd6b2523ce9c48c7ee03b718b *man/p18_bern.Rd
+bd24bedee17b5d384d2de2ff3a47f0cd *man/p18_corr_mvn.Rd
+43d0a6edfd4b6121dc78a48405ea5d7a *man/p18_mvn.Rd
+90af02e8ce1e78d3927668d7cf533ee4 *man/p6_bern.Rd
+4c8cc59c89d583482bcae94ef0841f9e *man/p6_big_bern.Rd
+6bd390cfb2c0506dcbca1300ce476ede *man/p6_mvn.Rd
 9837668ecd743ca208a04cde99590364 *man/partitionEntropy.Rd
 5211d245c5d6b772e3bd60d0e589095e *man/poch.Rd
 1a0cce2b8420a9526b5f86ed61760fb9 *man/psm.Rd
