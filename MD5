@@ -1,13 +1,13 @@
-49418738b2b0d1aa18378196b3e2e861 *DESCRIPTION
+6ec29658e48f1d4bf4b273903ad88959 *DESCRIPTION
 f7e4483c9c1dc4519c4972c2fc892a2b *NAMESPACE
-08dba8df362b3f65f721c0485cbcb30c *NEWS
+15293c48c82a77ad8bbd9604b874870b *NEWS
 f70202df2361e2bda3d2fba0b441fb1c *R/data.R
 8ed61449171cc2cfe0e95221117e6516 *R/nealAlgorithm3.R
 8ccd18e03aa1735c6a86f27f518619e9 *R/psmMergeSplit.R
 0f35b2351c2e7bff6823aa8f6bb3831e *R/psmMergeSplit_base.R
 1b9bc8cdb0c1ad1338d4c259aa07ada9 *R/restrictedGibbsMergeSplit.R
-8bf52d5142069c53f1b24668a065f5e6 *R/seqAllocatedMergeSplit.R
-10cb683fc0825fbffcb7fa4928439001 *R/seqAllocatedMergeSplit_base.R
+f1ed725a8679036a0ed75af824a0befc *R/seqAllocatedMergeSplit.R
+df9f0da07c673d0a29e49ea341d0280e *R/seqAllocatedMergeSplit_base.R
 badd6d599db8ab5af51a7a1027494d3c *R/simpleMergeSplit.R
 b5cd28573829a374ad1059281b29eddb *R/summary.R
 2dafa7f6368c43dd6b6984450e3e7b41 *R/utility.R
